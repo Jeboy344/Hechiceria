@@ -38,3 +38,5 @@ public class Guerrero {
         return artefactos.size();
     }
 }
+
+// Ver de nuevo la clase
