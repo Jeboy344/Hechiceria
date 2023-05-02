@@ -30,13 +30,11 @@ public class Guerrero {
         this.artefactos = artefactos;
     }
 
-    public void agregarArtefacto(Artefacto artefacto) {
+    public void agregarArtefacto(Artefacto artefacto){
         artefactos.add(artefacto);
     }
 
-    public Integer getCantidadArtefactos() {
+    public Integer getCantidadArtefactos(){
         return artefactos.size();
     }
 }
-
-// Ver de nuevo la clase
